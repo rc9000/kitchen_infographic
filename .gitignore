@@ -1,6 +1,7 @@
 # Build artifacts
 .tools/
 dist/
+site/
 /.quarto/
 /infographic.typ
 /facts_fr.typ
