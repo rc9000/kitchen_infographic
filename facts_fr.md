@@ -1,7 +1,5 @@
 
-# Température
-
-## Températures de cuisson des viandes et poissons
+# Températures de cuisson des viandes et poissons
 
 Température à cœur, mesurée au thermomètre. Pour les pièces entières, laisser reposer avant de trancher.
 
@@ -12,7 +10,9 @@ Température à cœur, mesurée au thermomètre. Pour les pièces entières, lai
 | Poulet | - | - | 74 °C | 80 °C+ | 85-90 °C |
 | Poisson | - | 48-52 °C | 55-60 °C | 63 °C+ | - |
 
-## Températures du four
+[^1]: Seulement pour les morceaux adaptés: épaule, palette, poitrine, côtes, cuisses et autres pièces riches en collagène.
+
+# Températures du four
 
 | Four | Usage | Repère |
 |---:|---|---|
@@ -25,15 +25,9 @@ Température à cœur, mesurée au thermomètre. Pour les pièces entières, lai
 
 Maillard: la surface brunit surtout au-dessus de 140-165 °C, si elle est sèche.
 
-[^1]: Seulement pour les morceaux adaptés: épaule, palette, poitrine, côtes, cuisses et autres pièces riches en collagène.
-
 # Roux
 
-Même poids beurre et farine
-
-Cuire 4-12 min jusqu'à la couleur voulue. Plus le roux est foncé, moins il épaissit.
-
-Pourcentages en poids de roux par rapport au liquide.
+Même poids beurre et farine. Cuire 4-12 min jusqu'à la couleur voulue. Plus le roux est foncé, moins il épaissit. Pourcentages en poids de roux par rapport au liquide.
 
 | Texture | Repère | Roux | Pour 1 kg de liquide |
 |---|---|---:|---:|
@@ -56,3 +50,13 @@ Pourcentages en poids, sauf indication contraire.
 | Saumure légère | 3 % de l'eau | Poulet, porc |
 | Saumure forte | 5-6 % de l'eau | Pickles, conservation courte |
 | Eau des pâtes | 1 % de l'eau | 10 g par litre |
+
+# Sauces mères
+
+| Sauce | Recette |
+|---|---|
+| Béchamel | Roux blanc, lait chaud, muscade, sel |
+| Velouté | Roux blond, fond clair, mijoter, assaisonner |
+| Espagnole | Roux brun, fond brun, tomate, mirepoix |
+| Mornay | Béchamel, fromage râpé, fondre, assaisonner |
+| Hollandaise | Jaunes, réduction, beurre clarifié, fouetter tiède |
