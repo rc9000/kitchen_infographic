@@ -49,14 +49,10 @@ Pourcentages en poids, sauf indication contraire.
 | Usage | Sel | Repère |
 |---|---:|---|
 | Pain | 2 % de la farine | Standard boulanger |
-| Pâte à pizza | 2,5-3 % de la farine | Goût plus marqué |
-| Viande avant cuisson | 1-1,5 % du poids | Ou saler toute la surface, généreusement |
-| Charcuterie fraîche | 1,5-2 % du poids | Saucisses, farces |
 | Choucroute | 2-2,5 % du chou | Conserves lactofermentées |
 | Légumes lactofermentés | 2 % du poids total | Légumes + eau |
+| Viande avant cuisson | 1-1,5 % du poids | Ou saler toute la surface, généreusement |
 | Saumure d'équilibre | 1,5-2 % du poids total | 1 kg viande + 1 L eau + 36 g sel = ~1,8 % à l'équilibre |
 | Saumure légère | 3 % de l'eau | Poulet, porc |
 | Saumure forte | 5-6 % de l'eau | Pickles, conservation courte |
 | Eau des pâtes | 1 % de l'eau | 10 g par litre |
-| Bouillon, soupe | 0,6-0,8 % du total | Ajuster à la fin |
-| Sauce finie | 0,8-1 % du total | Goûter avant service |
