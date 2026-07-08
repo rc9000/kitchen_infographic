@@ -54,6 +54,7 @@ Pourcentages en poids, sauf indication contraire.
 | Charcuterie fraîche | 1,5-2 % du poids | Saucisses, farces |
 | Choucroute | 2-2,5 % du chou | Conserves lactofermentées |
 | Légumes lactofermentés | 2 % du poids total | Légumes + eau |
+| Saumure d'équilibre | 1,5-2 % du poids total | 1 kg viande + 1 L eau + 36 g sel = ~1,8 % à l'équilibre |
 | Saumure légère | 3 % de l'eau | Poulet, porc |
 | Saumure forte | 5-6 % de l'eau | Pickles, conservation courte |
 | Eau des pâtes | 1 % de l'eau | 10 g par litre |
