@@ -1,0 +1,25 @@
+# Build artifacts
+.tools/
+dist/
+/.quarto/
+/infographic.typ
+
+**/*.quarto_ipynb
+
+# Vim
+*.swp
+*.swo
+*.swn
+*.un~
+.netrwhist
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

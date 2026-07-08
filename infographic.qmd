@@ -1,0 +1,66 @@
+---
+title: ""
+format:
+  typst:
+    filters:
+      - filters/layout.lua
+    template-partials:
+      - page.typ
+    papersize: a4
+    margin:
+      x: 8mm
+      y: 8mm
+    mainfont: "DejaVu Sans"
+    fontsize: 9.6pt
+    columns: 2
+---
+
+```{=typst}
+#set document(title: "Les Kitchen Facts")
+#let ink = rgb("#263238")
+#let copper = rgb("#b65f32")
+#let teal = rgb("#1f6f68")
+#let sage = rgb("#eef4e8")
+#let cream = rgb("#fff8ed")
+#let flour = rgb("#fffdf8")
+
+#set text(font: "DejaVu Sans", size: 9.6pt, lang: "fr", fill: ink)
+#set par(justify: false, leading: 0.52em)
+#set table(
+  inset: (x: 4.6pt, y: 3.4pt),
+  stroke: 0.25pt + rgb("#dcc9b3"),
+)
+
+#show heading.where(level: 1): it => block(
+  above: 5.6pt,
+  below: 3.4pt,
+  width: 100%,
+  fill: teal,
+  inset: (x: 6.6pt, y: 4.2pt),
+  radius: 2pt,
+)[
+  #text(fill: white, weight: "bold", size: 11.4pt)[#it.body]
+]
+
+#show heading.where(level: 2): it => block(
+  above: 2pt,
+  below: 1pt,
+)[#text(fill: teal, weight: "bold", size: 9pt)[#it.body]]
+
+#show table.cell.where(y: 0): it => table.cell(
+  fill: sage,
+  inset: (x: 4.6pt, y: 3.4pt),
+)[#text(fill: ink, weight: "bold")[#it.body]]
+
+#show table: it => block(
+  fill: cream,
+  stroke: 0.45pt + rgb("#e3d4c2"),
+  radius: 2pt,
+  inset: 2.4pt,
+  width: 100%,
+  above: 2pt,
+  below: 5pt,
+)[#it]
+```
+
+{{< include facts_fr.md >}}
