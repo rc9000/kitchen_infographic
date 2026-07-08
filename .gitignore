@@ -3,6 +3,7 @@
 dist/
 /.quarto/
 /infographic.typ
+/facts_fr.typ
 
 **/*.quarto_ipynb
 

@@ -40,8 +40,9 @@ fi
 
 mkdir -p "$DIST_DIR"
 rm -f "$DIST_DIR/infographic.pdf"
+rm -f "$ROOT/infographic.typ"
 
-"$QUARTO_BIN" render "$ROOT/infographic.qmd" \
+"$QUARTO_BIN" render "$ROOT/facts_fr.qmd" \
   --to typst \
   --output "$OUTPUT_PDF" \
   --output-dir "$DIST_DIR"
